@@ -4,6 +4,8 @@
 
 **Lokální monitoring a ovládání zařízení Shelly přes MQTT v Node-RED Dashboard 2.0.**
 
+<img width="414" height="806" alt="image" src="https://github.com/user-attachments/assets/364fcd70-c83f-4966-b88d-92a8844c6a32" />
+
 ## Přehled
 
 Modul integruje zařízení Shelly do projektu LINEA a jeho Node-RED Dashboardu. Komunikace probíhá lokálně přes MQTT, takže pro základní provoz není nutný Shelly Cloud ani účet Shelly.

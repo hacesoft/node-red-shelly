@@ -4,6 +4,8 @@
 
 **Local monitoring and control of Shelly devices over MQTT in Node-RED Dashboard 2.0.**
 
+<img width="414" height="806" alt="image" src="https://github.com/user-attachments/assets/364fcd70-c83f-4966-b88d-92a8844c6a32" />
+
 ## Overview
 
 The module integrates Shelly devices into LINEA and its Node-RED Dashboard. Communication is local through MQTT, so Shelly Cloud and a Shelly account are not required for basic operation.
